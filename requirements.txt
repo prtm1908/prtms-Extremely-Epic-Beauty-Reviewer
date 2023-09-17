@@ -1,4 +1,3 @@
-python_version == 3.9.17
 Flask==2.3.3
 opencv-python==4.8.0.76
 deepface==0.0.79
