@@ -1,4 +1,4 @@
-flask
-opencv-python
-deepface
-gunicorn
+Flask==2.3.3
+opencv-python==4.8.0.76
+deepface==0.0.79
+gunicorn==21.2.0
