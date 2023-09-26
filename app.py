@@ -12,7 +12,7 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
 # counter = 0
 
-reference_img = cv2.imread("Person/Suhani.jpg")
+reference_img = cv2.imread("Person/Pratham.jpg")
 
 face_match = False
 
