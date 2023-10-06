@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/prtm1908/Vasculature-Instance-Segmentation-YOLOv8.git
+    git clone https://github.com/prtm1908/prtms-Extremely-Epic-Beauty-Reviewer.git
     ```
 2. Navigate to the repository's directory.
 3. Download the requirements:
